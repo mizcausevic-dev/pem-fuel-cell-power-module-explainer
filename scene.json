@@ -11,40 +11,40 @@
       "glyph": "stack",
       "label": "Stack",
       "role": "path",
-      "x": 0.5,
-      "y": 0.16
+      "x": 0.14,
+      "y": 0.32
     },
     {
       "id": "n2",
       "glyph": "hydrogen",
       "label": "Hydrogen",
       "role": "energy",
-      "x": 0.5,
-      "y": 0.277
+      "x": 0.38,
+      "y": 0.32
     },
     {
       "id": "n3",
       "glyph": "proton",
       "label": "Protons",
       "role": "path",
-      "x": 0.5,
-      "y": 0.393
+      "x": 0.62,
+      "y": 0.32
     },
     {
       "id": "n4",
       "glyph": "electron",
       "label": "External electrons",
       "role": "path",
-      "x": 0.5,
-      "y": 0.51
+      "x": 0.86,
+      "y": 0.32
     },
     {
       "id": "n5",
       "glyph": "water",
       "label": "Water",
       "role": "path",
-      "x": 0.5,
-      "y": 0.627
+      "x": 0.14,
+      "y": 0.7
     },
     {
       "id": "n6",
@@ -52,15 +52,15 @@
       "label": "Heat",
       "role": "energy",
       "x": 0.5,
-      "y": 0.743
+      "y": 0.7
     },
     {
       "id": "n7",
       "glyph": "harness",
       "label": "Power load",
       "role": "energy",
-      "x": 0.5,
-      "y": 0.86
+      "x": 0.86,
+      "y": 0.7
     }
   ],
   "edges": [
